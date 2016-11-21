@@ -1,0 +1,19 @@
+{
+  "name": "otsukai",
+  "version": "0.0.1",
+  "description": "Slackでドーナツ注文するためのもの",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ホモ",
+    "ドーナツ"
+  ],
+  "author": "ホモ下宿民",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/client": "^3.6.1",
+    "config": "^1.24.0"
+  }
+}
